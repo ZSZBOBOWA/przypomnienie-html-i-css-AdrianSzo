@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    height: 120px;
+    width: 100%;
+    background-color: blueviolet;
+}
+aside
+{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(165, 42, 134);
+    float: left;   
+}
+main
+{
+    height: 400px;
+    width: 60%;
+    background-color: rgb(46, 165, 42);  
+    float: left;
+}
+footer
+{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(42, 91, 165);  
+    clear: both;
+}
